@@ -1,15 +1,15 @@
 === Button ===
-Contributors: webdzier
-Tags: buttons,dropdown,drop-down button ,Wordpress Button Plugin,social buttons plugin wordpress,like button plugin for wordpress,wordpress buttons, wd buttons plugin, button plugin wordpress,css3 buttons, social icons buttons, sharing buttons,widget buttons, widget buttons, css3 buttons generator, fontawesome buttons, icon buttons, , social icons buttons, whatsapp buttons, woocommerce buttons, google buttons, linkedin buttons, reddit buttons, facebook buttons, like buttons, twitter buttons, pinterest buttons, icons buttons, 2d buttons, 3d buttons, button animation, social navbar, menubar, navigation bar, paypal button,paypal donate button wordpress plugin, wordpress plugin social media share buttons,shopping cart buttons, register botton, login button, link button, add to cart buttons, signup button, payment method botton, social share button, google analytics button, feature button, services button, bootstrap buttons, funny buttons
+Contributors: webdzier,burgersoftware
+Tags: drop-down button,whatsapp buttons,css3 responsive buttons,share button,wordpress button plugin
 Donate link: https://www.webdzier.com/
 Requires at least: 4.8
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 1.1.29
+Stable tag: 1.1.30
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create beautiful buttons and social icons. Button plugin is powerful and easy to use. You can create any types of buttons such as 2D,3D and social button sets.  
+Create beautiful buttons and social icons. Button plugin is powerful and easy to use. You can create any types of buttons such as css3 & 3D Buttons. 
 
 
 == Description ==
@@ -142,6 +142,9 @@ Watch button Installation Video: [Click](https://youtu.be/yB1Q6ZdjUcs)
 Please use WordPress support forum to ask any query.
 
 == Changelog ==
+
+= Version 1.1.30 =
+* Tested up to wp 6.7.1
 
 = Version 1.1.29 =
 * Tested up to wp 6.6
