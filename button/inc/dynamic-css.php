@@ -1,4 +1,3 @@
-
 <style type="text/css">
 .button_wrapper_id_<?php echo esc_attr($id); ?>{
 	margin-top: <?php echo esc_attr($custom_data->margin_top); ?>px!important;

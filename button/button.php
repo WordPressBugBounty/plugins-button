@@ -1,13 +1,13 @@
 <?php 
 /*
 Plugin Name: Button
-Plugin URI: http://webdzier.com
-Description: WordPress button generator plugin.You can create any type of button. <a href="http://webdzier.com">Get Pro version</a>. Button is a powerful plugin.
-Version: 1.1.30
+Plugin URI: https://burgerthemes.com
+Description: WordPress button generator plugin.You can create any type of button. <a href="https://burgerthemes.com/button-pro">Get Pro version</a>. Button is a powerful plugin.
+Version: 1.1.31
 Requires at least: 4.8
 Requires PHP: 5.6
-Author: webdzier
-Author URI: http://webdzier.com
+Author: burgersoftware
+Author URI: https://burgerthemes.com
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: button 	

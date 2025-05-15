@@ -165,7 +165,7 @@ function button_admin_header(){
 			</style>
 			<div class="wdbutton_ac_h_i ">
 				<div class="wdbutton_container">
-					<a href="<?php echo esc_url('http://webdzier.com/plugins/button-pro/');?>" target="_blank">
+					<a href="<?php echo esc_url('https://burgerthemes.com/button-pro/');?>" target="_blank">
 						<a class="wdbutton-rate-us" style=" text-decoration: none; height: 40px; width: 40px;" href="<?php echo esc_url('https://wordpress.org/plugins/button/'); ?>" target="_blank">
 							<span class="dashicons dashicons-star-filled"></span>
 							<span class="dashicons dashicons-star-filled"></span>
@@ -174,8 +174,8 @@ function button_admin_header(){
 							<span class="dashicons dashicons-star-filled"></span>
 						</a>
 						<div class="link_wdbutton">
-							<a href="<?php echo esc_url('https://webdzier.com/demo/plugins/wd-button-pro/'); ?>" class="view_demo_btn"><?php esc_html_e( 'View Demo','button' ) ?></a>
-							<a href="<?php echo esc_url('https://webdzier.com/amember/signup/button-pro'); ?>" class="buynow_btn"><?php esc_html_e( '$15 Buy Now','button' ) ?></a>					
+							<a href="<?php echo esc_url('https://burgerthemes.com/demo/pro/button/'); ?>" class="view_demo_btn"><?php esc_html_e( 'View Demo','button' ) ?></a>
+							<a href="<?php echo esc_url('https://burgerthemes.com/button-pro/'); ?>" class="buynow_btn"><?php esc_html_e( '$15 Buy Now','button' ) ?></a>					
 							<a href="<?php echo esc_url('https://wordpress.org/support/plugin/button/'); ?>" class="get_support_btn"><?php esc_html_e( 'Get Support','button' ) ?></a>
 						</div>
 

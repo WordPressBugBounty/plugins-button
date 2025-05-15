@@ -1,11 +1,11 @@
 === Button ===
-Contributors: webdzier,burgersoftware
+Contributors: burgersoftware,webdzier
 Tags: drop-down button,whatsapp buttons,css3 responsive buttons,share button,wordpress button plugin
-Donate link: https://www.webdzier.com/
+Donate link: https://burgerthemes.com
 Requires at least: 4.8
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 5.6
-Stable tag: 1.1.30
+Stable tag: 1.1.31
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -88,30 +88,14 @@ The button is a WordPress button generator plugin. Create social icons and socia
 
 = Check Our Button Plugin Pro Demo Here =
 
-* Simple Button Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/)
-* Drop-down Button Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/drop-down/)
-* 2D Transitions Button Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/2d-transitions/)
-* Border Transitions Button Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/border-transitions/)
-* Curl Button Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/curl/)
-* Speech Bubble Button Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/speech-bubble/)
-* Background Transition Button Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/bg-transition/)
-* Icon Button Button Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/icon-button/)
-* Icon With Text Button Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/icon-with-text/)
-* Hexagon Button Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/hexagon/)
-* Circle Icon Button Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/circle-icon/)
+* Our Button Plugin Pro Demo: [Live Demo](https://burgerthemes.com/demo/pro/button)
 
-
-
-= Social Button sets Demo =
-
-* Social Button Sets Demo: [Live Demo](http://webdzier.com/demo/plugins/wd-button-pro/social-button-sets/)
-
-* Get Pro Version: [Buy Now](https://webdzier.com/plugins/button-pro/)
+* Get Pro Version: [Buy Now](https://burgerthemes.com/button-pro)
 
 
 = Translators =
 
-Please contribute to translate our plugin. Contact at `webdzier(at)gmail(dot)com`.
+Please contribute to translate our plugin. Contact at `burgersoftware(at)gmail(dot)com`.
 
 
 = Button Plugin Admin Features =
@@ -142,6 +126,10 @@ Watch button Installation Video: [Click](https://youtu.be/yB1Q6ZdjUcs)
 Please use WordPress support forum to ask any query.
 
 == Changelog ==
+
+= Version 1.1.31 =
+* Tested up to wp 6.8
+* Plugin URI, Author & Author URI Updated
 
 = Version 1.1.30 =
 * Tested up to wp 6.7.1
