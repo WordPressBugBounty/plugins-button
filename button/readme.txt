@@ -3,9 +3,9 @@ Contributors: burgersoftware,webdzier
 Tags: drop-down button,whatsapp buttons,css3 responsive buttons,share button,wordpress button plugin
 Donate link: https://burgerthemes.com
 Requires at least: 4.8
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 1.1.31
+Stable tag: 1.1.32
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -121,11 +121,13 @@ Installation video.
 
 Watch button Installation Video: [Click](https://youtu.be/yB1Q6ZdjUcs)
 
-
 == Frequently Asked Questions ==
 Please use WordPress support forum to ask any query.
 
 == Changelog ==
+
+= Version 1.1.32 =
+* Tested up to wp 6.9
 
 = Version 1.1.31 =
 * Tested up to wp 6.8

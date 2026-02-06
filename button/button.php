@@ -3,7 +3,7 @@
 Plugin Name: Button
 Plugin URI: https://burgerthemes.com
 Description: WordPress button generator plugin.You can create any type of button. <a href="https://burgerthemes.com/button-pro">Get Pro version</a>. Button is a powerful plugin.
-Version: 1.1.31
+Version: 1.1.32
 Requires at least: 4.8
 Requires PHP: 5.6
 Author: burgersoftware
